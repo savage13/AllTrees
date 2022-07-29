@@ -14,7 +14,7 @@ A simple search for `actor: Obj_Tree*` returns 27185 objects, this includes a va
 - Trees that are only underwater
 
 #### Updated Version (2022-07-29)
-Using the initial list from `Obj_Tree*` each tree type was inspected and an attempt was made to chop it down.  Stumps, Trunk, and Fallen trees were ignored.  This produces a shorter list than the initial version as all `Obj_TreeGashamahi*` and most `Obj_TreeDragonblood*` cannot be chopped down.
+Using the initial list from `Obj_Tree*` each tree type was inspected and an attempt was made to chop it down (it only took a few hours).  Stumps, Trunk, and Fallen trees were ignored.  This produces a shorter list than the initial version as all `Obj_TreeGashamahi*` and most `Obj_TreeDragonblood*` cannot be chopped down.
 
 A complete list in `all_trees.txt` contains the Tree type and if can be chopped down.
 
