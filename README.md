@@ -49,7 +49,7 @@ Starting with `actor: Obj_Tree` we remove the objects above by their name coming
 
 `actor: Obj_Tree* NOT TreeBaobab NOT TreeStump NOT TreeBroadleafHoleStump NOT TreeBroadleafMossStump NOT TreeBroadleafStumpMoss NOT TreeGiant* NOT Root NOT TreeBroadleafRoot NOT TreeGhost_A_01 NOT TreeGhost_A_02 NOT TreeGhost_A_04 NOT TreeCherry NOT Fallen NOT TreeBroadleafFallen* NOT TreeConiferousSnowFallen* NOT TreePalmJungle NOT TreeDeadleaf_A_LL NOT TreeTropical_A_LL NOT TreeMaple_A_LL NOT TreeBroadleaf_A_LL NOT TreeBroadleaf_B_L NOT Trunk NOT TreeDragonblood_A_01 NOT TreeDragonblood_A_02 NOT TreeDragonblood_A_04 NOT TreeDragonblood_A_05 NOT TreeGashamahi*`
 
-or more leagably:
+or more legibly:
 
     actor: Obj_Tree* 
        NOT TreeBaobab 
